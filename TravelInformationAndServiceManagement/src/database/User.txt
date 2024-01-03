@@ -1,0 +1,50 @@
+Username: rifat
+Password: 1234
+Email: ahmedrifat@gmail.com
+First Name: Redownsd
+Last Name: Ahmedasasad
+Gender: male
+Phone No: 01559242380
+NID: 22222222
+PAssport No: 111111111
+_________________
+Username: Faiza
+Password: 1234
+Email: chowdhuryfaiza2003@gmail.com
+First Name: 
+Last Name: 
+Gender: 
+Phone No: 
+NID: 
+PAssport No: 
+_________________
+Username: Nova
+Password: nova
+Email: user@gmail.com
+First Name: Tasnuva
+Last Name: Nova
+Gender: female
+Phone No: 098765433221
+NID: 1234567890
+PAssport No: 12345678901
+_________________
+Username: ahmed
+Password: 1111
+Email: ahmed@gmsail.com
+First Name: ahmedd
+Last Name: rifat
+Gender: male
+Phone No: 11
+NID: 2222
+PAssport No: 333333
+_________________
+Username: mumeet
+Password: 1111
+Email: mumeet@gmai.com
+First Name: Abdul
+Last Name: Mumeet Pathan
+Gender: male
+Phone No: 32154
+NID: 13134
+PAssport No: 54455
+_________________
