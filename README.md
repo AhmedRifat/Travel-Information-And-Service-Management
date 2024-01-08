@@ -62,5 +62,5 @@
 <h3>30. User Book List to show bookings of user</h3>
 <img src ="https://github.com/AhmedRifat/Travel-Information-And-Service-Management/assets/45284066/04b0d3db-fd6c-405b-923a-b56aa94d4869">
 <br>
-<p>This project is done by me, <a href="https://github.com/Tasnuvatasnim1" target="_blank">@Tasnuvatasnim1</a></p>
+<p>This project is done by me, <a href="https://github.com/Tasnuvatasnim1" target="_blank">@Tasnuvatasnim1</a>, <a href="https://github.com/chowdhuryfaiza" target="_blank">@chowdhuryfaiza</a></p>
 
